@@ -1,0 +1,22 @@
+{
+  "name": "SleeperApp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.3",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/gtm": "^2.4.0",
+    "@nuxtjs/markdownit": "^1.2.10",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {}
+}
